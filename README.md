@@ -6,4 +6,4 @@ This repository contains implementations of popular deep learning models using k
 
 ### VGG19
 
-[VGG19.ipynb][VGG19.ipynb] contains implementation of [VGG19](https://arxiv.org/abs/1409.1556) model
+[VGG19.ipynb](VGG19.ipynb) contains implementation of [VGG19](https://arxiv.org/abs/1409.1556) model
