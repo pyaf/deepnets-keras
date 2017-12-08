@@ -1,4 +1,7 @@
 # DeepNets in keras
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)
+[![HitCount](http://hits.dwyl.io/rishabhiitbhu/deepnets-keras.svg)](http://hits.dwyl.io/rishabhiitbhu/deepnets-keras)
+[![Packagist](https://img.shields.io/packagist/l/doctrine/orm.svg)]()
 
 This repository contains implementations of popular deep learning models using keras.
 
